@@ -15,7 +15,7 @@ Repository: Syed Muhammad Ahmer
 │   ├── unet_curves.png
 │   └── unet_predictions.png
 └── README.md
-
+```
 Datasets
 
 The datasets are not tracked in this repository due to size constraints. They
@@ -94,5 +94,7 @@ To run the notebook:
 1.  Open notebook/assignment_resnet_unet.ipynb in Google Colab or a local
     Jupyter environment with a CUDA-enabled GPU.
 2.  Install required packages:
+3.  `
     pip install segmentation-models-pytorch
-3.  Execute the cells sequentially from top to bottom.
+    `
+5.  Execute the cells sequentially from top to bottom.
